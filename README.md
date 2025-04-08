@@ -2,7 +2,7 @@
 
 Welcome to **Glow** – an AI-powered skincare companion designed to help users glow-up effortlessly, track their skin health, and receive personalized skincare insights through a simple daily selfie.
 
-![Glow App Landing Page](./landing-screenshot.png)
+![Glow App Landing Page](./public/landing-screenshot.png)
 
 ---
 
@@ -28,7 +28,7 @@ Whether you're a skincare enthusiast or just curious about your glow-up journey,
 
 | Mobile Mockup |
 |----------------|
-|![Mockup](./assets/landing-page.png) |
+|![Mockup](./public/landing-page.png) |
 
 ---
 
