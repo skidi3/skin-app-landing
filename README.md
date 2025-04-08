@@ -28,7 +28,7 @@ Whether you're a skincare enthusiast or just curious about your glow-up journey,
 
 | Hero Section | Mobile Mockup |
 |--------------|----------------|
-| ![Hero](./assets/glow-hero.png) | ![Mockup](./assets/glow-mockup.png) |
+| ![Hero](./assets/glow-hero.png) | ![Mockup](./assets/landing-page.png) |
 
 ---
 
